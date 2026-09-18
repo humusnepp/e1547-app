@@ -189,7 +189,7 @@ void main() {
     test('leaves the general group empty when tags are missing', () {
       final similar = PostSimilar.fromJson(
         PostSimilarKind.tags,
-        response(kind: 'tags', postData: [entry(id: 5, tags: null)]),
+        response(kind: 'tags', postData: [entry(id: 5)]),
       );
 
       expect(similar.results.single.tags['general'], isEmpty);

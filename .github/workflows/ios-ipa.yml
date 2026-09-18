@@ -21,6 +21,7 @@ jobs:
           channel: stable
           architecture: x64
           version: latest
+          cache: true
 
       - name: Print Flutter version
         run: flutter --version
