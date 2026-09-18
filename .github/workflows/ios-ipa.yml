@@ -32,13 +32,23 @@ jobs:
       - name: Analyze
         run: flutter analyze
 
-      - name: Build unsigned IPA
+      - name: Build unsigned archive
+        run: flutter build ipa --release --no-codesign
+
+      - name: Assemble unsigned IPA from archive
         run: |
-          flutter build ipa --release --no-codesign
+          set -eux
+          ARCHIVE="$(find build/ios/archive -name '*.xcarchive' -type d | head -n1)"
+          echo "archive: $ARCHIVE"
+          mkdir -p build/ios/ipa/Payload
+          cp -R "$ARCHIVE/Products/Applications/Runner.app" build/ios/ipa/Payload/
+          (cd build/ios/ipa && zip -qr ../../e1547-app-ios-unsigned.ipa Payload)
+          ls -la build/ios/ipa build/ios/e1547-app-ios-unsigned.ipa
 
       - name: Upload IPA artifact
         uses: actions/upload-artifact@v4
         with:
           name: e1547-app-ios-unsigned
-          path: build/ios/ipa/*.ipa
+          path: |
+            build/ios/e1547-app-ios-unsigned.ipa
           if-no-files-found: error
