@@ -1,0 +1,31 @@
+import 'package:dio/dio.dart';
+import 'package:e1547/shared/shared.dart';
+import 'package:e1547/topic/topic.dart';
+
+class TopicClient {
+  TopicClient({required this.dio});
+
+  final Dio dio;
+
+  Future<Topic> get({required int id, CancelToken? cancelToken}) => dio
+      .get('/forum_topics/$id.json', cancelToken: cancelToken)
+      .then((response) => E621Topic.fromJson(response.data));
+
+  Future<List<Topic>> page({
+    int? page,
+    int? limit,
+    QueryMap? query,
+    CancelToken? cancelToken,
+  }) => dio
+      .get(
+        '/forum_topics.json',
+        queryParameters: {'page': page, 'limit': limit, ...?query}.toQuery(),
+        cancelToken: cancelToken,
+      )
+      .then(unwrapRailsArray)
+      .then(
+        (response) => (response.data as List)
+            .map<Topic>((e) => E621Topic.fromJson(e))
+            .toList(),
+      );
+}

@@ -1,0 +1,623 @@
+[
+  {
+    "name": "wesleyote",
+    "avatar": "https://github.com/wesleyote.png",
+    "handles": {
+      "ko-fi": "wesleyote",
+      "github": "wesleyote",
+      "e621": "wesleyote"
+    },
+    "donations": [
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2026-08-07T10:10:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2026-07-07T12:04:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2026-06-07T12:20:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2026-05-07T11:55:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2026-04-07T12:26:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2026-03-07T11:04:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2026-02-07T09:21:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2026-01-08T07:30:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 5.0,
+        "currency": "USD",
+        "date": "2024-07-23T10:03:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 6.0,
+        "currency": "USD",
+        "date": "2024-02-13T18:15:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 6.0,
+        "currency": "USD",
+        "date": "2024-01-19T04:48:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 6.0,
+        "currency": "USD",
+        "date": "2023-11-28T01:03:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 5.0,
+        "currency": "USD",
+        "date": "2023-10-04T19:52:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 5.0,
+        "currency": "USD",
+        "date": "2023-09-08T05:09:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "adAP",
+    "handles": {
+      "ko-fi": "adAP"
+    },
+    "donations": [
+      {
+        "amount": 10.0,
+        "currency": "USD",
+        "date": "2023-08-24T15:31:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 10.0,
+        "currency": "USD",
+        "date": "2022-09-30T02:30:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "bork",
+    "handles": {
+      "ko-fi": "bork"
+    },
+    "donations": [
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2023-05-07T00:57:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "TimeMasterDM",
+    "handles": {
+      "ko-fi": "TimeMasterDM"
+    },
+    "donations": [
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2023-02-25T05:51:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "kannthus",
+    "avatar": "https://github.com/kannthus.png",
+    "handles": {
+      "ko-fi": "kannthus",
+      "github": "kannthus"
+    },
+    "donations": [
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2022-11-06T04:31:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "Zylysh",
+    "handles": {
+      "ko-fi": "Zylysh"
+    },
+    "donations": [
+      {
+        "amount": 15.0,
+        "currency": "USD",
+        "date": "2022-10-23T15:59:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 15.0,
+        "currency": "USD",
+        "date": "2022-04-30T01:41:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "SUDA_IDU",
+    "avatar": "https://github.com/KOMBINE.png",
+    "handles": {
+      "e621": "SUDA_IDU",
+      "ko-fi": "\u0421\u0430\u0448\u0430 \u041c\u0430\u0437\u0443\u0440\u0435\u043d\u043a\u043e",
+      "github": "KOMBINE"
+    },
+    "donations": [
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2021-10-12T14:00:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 1.0,
+        "currency": "USD",
+        "date": "2023-02-17T12:41:33+00:00",
+        "platform": "github"
+      }
+    ]
+  },
+  {
+    "name": "JaxiiRuff",
+    "avatar": "https://github.com/JaxiiRuff.png",
+    "handles": {
+      "github": "JaxiiRuff",
+      "e621": "knotsudo"
+    },
+    "donations": [
+      {
+        "amount": 2.0,
+        "currency": "USD",
+        "date": "2023-10-12T17:00:42+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": 2.0,
+        "currency": "USD",
+        "date": "2023-09-12T16:54:07+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": 2.0,
+        "currency": "USD",
+        "date": "2023-08-12T16:31:42+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": 2.0,
+        "currency": "USD",
+        "date": "2023-07-12T07:13:39+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": 1.8,
+        "currency": "USD",
+        "date": "2023-06-15T23:15:01+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": -0.9,
+        "currency": "USD",
+        "date": "2023-06-15T23:15:01+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": 1.0,
+        "currency": "USD",
+        "date": "2023-06-12T17:29:20+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": 1.0,
+        "currency": "USD",
+        "date": "2023-05-12T17:01:18+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": 1.0,
+        "currency": "USD",
+        "date": "2023-04-12T16:48:26+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": 1.0,
+        "currency": "USD",
+        "date": "2023-03-12T17:06:04+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": 0.75,
+        "currency": "USD",
+        "date": "2023-02-19T18:22:43+00:00",
+        "platform": "github"
+      }
+    ]
+  },
+  {
+    "name": "Vuldora",
+    "avatar": "https://github.com/Vuldora.png",
+    "handles": {
+      "ko-fi": "Vuldozer",
+      "github": "Vuldora"
+    },
+    "donations": [
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2022-11-27T11:36:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2023-09-17T16:59:45+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2023-08-17T16:48:48+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2023-07-17T16:41:45+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2023-06-17T17:24:00+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2023-05-17T16:41:54+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2023-04-17T16:37:08+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2023-03-17T17:35:48+00:00",
+        "platform": "github"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2023-02-17T12:48:31+00:00",
+        "platform": "github"
+      }
+    ]
+  },
+  {
+    "name": "fiire",
+    "handles": {
+      "ko-fi": "fiire"
+    },
+    "donations": [
+      {
+        "amount": 5.0,
+        "currency": "USD",
+        "date": "2024-02-15T00:07:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "ekatn",
+    "handles": {
+      "ko-fi": "ekatn"
+    },
+    "donations": [
+      {
+        "amount": 25.0,
+        "currency": "USD",
+        "date": "2024-03-29T23:29:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "Liuk",
+    "handles": {
+      "ko-fi": "Liuk",
+      "github": "FuzzyLiuk",
+      "e621": "FuzzyLiuk"
+    },
+    "donations": [
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2024-03-30T23:32:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2024-05-10T15:29:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2024-09-05T09:07:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "APad",
+    "handles": {
+      "ko-fi": "APad"
+    },
+    "donations": [
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2024-07-15T06:50:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2022-05-14T02:07:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "Waffelo",
+    "avatar": "https://github.com/Waffelo.png",
+    "handles": {
+      "github": "Waffelo"
+    },
+    "donations": [
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2024-07-23T00:00:00",
+        "platform": "github"
+      }
+    ]
+  },
+  {
+    "name": "Blasp Berry",
+    "handles": {
+      "ko-fi": "Blasp Berry"
+    },
+    "donations": [
+      {
+        "amount": 3.0,
+        "currency": "USD",
+        "date": "2025-02-25T15:57:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "pifox",
+    "avatar": "https://github.com/hunting4code.png",
+    "handles": {
+      "ko-fi": "pifox",
+      "github": "hunting4code"
+    },
+    "donations": [
+      {
+        "amount": 45.0,
+        "currency": "USD",
+        "date": "2026-07-20T18:23:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 45.0,
+        "currency": "USD",
+        "date": "2026-06-21T12:27:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 25.0,
+        "currency": "USD",
+        "date": "2025-12-24T00:59:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 25.0,
+        "currency": "USD",
+        "date": "2025-11-24T00:12:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 25.0,
+        "currency": "USD",
+        "date": "2025-10-24T01:02:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 25.0,
+        "currency": "USD",
+        "date": "2025-09-24T01:17:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 25.0,
+        "currency": "USD",
+        "date": "2025-08-24T00:45:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 25.0,
+        "currency": "USD",
+        "date": "2025-07-24T00:52:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 25.0,
+        "currency": "USD",
+        "date": "2025-06-24T00:50:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 25.0,
+        "currency": "USD",
+        "date": "2025-05-24T19:55:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "Veca",
+    "handles": {
+      "ko-fi": "veca"
+    },
+    "donations": [
+      {
+        "amount": 10.0,
+        "currency": "USD",
+        "date": "2025-06-02T20:48:00",
+        "platform": "ko-fi"
+      },
+      {
+        "amount": 10.0,
+        "currency": "USD",
+        "date": "2025-09-10T22:24:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "THED4NIEL",
+    "handles": {
+      "ko-fi": "THED4NIEL"
+    },
+    "donations": [
+      {
+        "amount": 50.0,
+        "currency": "USD",
+        "date": "2025-07-30T12:48:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "IwVeElElK",
+    "handles": {
+      "ko-fi": "IwVeElElK"
+    },
+    "donations": [
+      {
+        "amount": 5.0,
+        "currency": "USD",
+        "date": "2025-10-08T13:40:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "Foxfire",
+    "handles": {
+      "ko-fi": "Foxfire"
+    },
+    "donations": [
+      {
+        "amount": 51.0,
+        "currency": "USD",
+        "date": "2026-05-31T01:04:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "Sludgemau5",
+    "handles": {
+      "ko-fi": "Sludgemau5"
+    },
+    "donations": [
+      {
+        "amount": 15.0,
+        "currency": "USD",
+        "date": "2026-06-27T00:05:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "TenaciousDuane",
+    "handles": {
+      "ko-fi": "TenaciousDuane"
+    },
+    "donations": [
+      {
+        "amount": 12.0,
+        "currency": "USD",
+        "date": "2026-07-06T13:15:00",
+        "platform": "ko-fi"
+      }
+    ]
+  },
+  {
+    "name": "Thibaultmol",
+    "handles": {
+      "ko-fi": "Thibaultmol"
+    },
+    "donations": [
+      {
+        "amount": 27.0,
+        "currency": "USD",
+        "date": "2026-07-07T17:44:00",
+        "platform": "ko-fi"
+      }
+    ]
+  }
+]
