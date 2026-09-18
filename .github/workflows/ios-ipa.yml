@@ -19,7 +19,6 @@ jobs:
         uses: flutter-actions/setup-flutter@v3
         with:
           channel: stable
-          architecture: x64
           version: latest
           cache: true
 
@@ -38,12 +37,12 @@ jobs:
       - name: Assemble unsigned IPA from archive
         run: |
           set -eux
-          ARCHIVE="$(find build/ios/archive -name '*.xcarchive' -type d | head -n1)"
+          ARCHIVE="$(find build/ios/archive -name '*.xcarchive' -d 2>/dev/null | head -n1)"
           echo "archive: $ARCHIVE"
           mkdir -p build/ios/ipa/Payload
           cp -R "$ARCHIVE/Products/Applications/Runner.app" build/ios/ipa/Payload/
-          (cd build/ios/ipa && zip -qr ../../e1547-app-ios-unsigned.ipa Payload)
-          ls -la build/ios/ipa build/ios/e1547-app-ios-unsigned.ipa
+          (cd build/ios/ipa && zip -qr "$GITHUB_WORKSPACE/build/ios/e1547-app-ios-unsigned.ipa" Payload)
+          ls -la build/ios/e1547-app-ios-unsigned.ipa
 
       - name: Upload IPA artifact
         uses: actions/upload-artifact@v4
